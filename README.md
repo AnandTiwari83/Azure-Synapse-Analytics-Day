@@ -84,7 +84,7 @@ Welcome to your Azure Synapse Analytics in a Day Lab! We've prepared a seamless 
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-  ![](media/labguide.png)
+  ![](media/labguidea.png)
 
 ## Virtual Machine & Lab Guide
  
